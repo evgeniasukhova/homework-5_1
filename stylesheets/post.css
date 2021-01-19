@@ -47,8 +47,8 @@ article h2 + img {
 article h1,
 article h2,
 article h3,
-article h4,
-article  p {
+article h4
+{
 font-family: 'PT Sans Caption', sans-serif;
  font-weight: bold;
 }
@@ -126,7 +126,7 @@ article blockquote + p + h2 + p + p + p {
 }
 
 article h1 + p + p {
-  margin-top: : 45px;
+  margin-top: 45px;
 
 }
 
